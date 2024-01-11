@@ -1,0 +1,13 @@
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.cache
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.Calculator.resources
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.QuadEqSolver.resources
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.SimEqSolver.resources
+G:\VS Projects\C-Sharp\GUI C#\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.AssemblyReference.cache
